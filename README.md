@@ -8,4 +8,4 @@ Programa malicioso para enviar spam a cualquier correo electrónico con un gmail
 - `apt install git -y`
 - Clone the repository: `git clone https://github.com/Baltazar-CD/Email_Spam_B.git`
 - Instalar requisitos: `pip3 install -r requirements.txt`
-- `python3 email-spam-b.py`
+- `python3 email_spam_b.py`
